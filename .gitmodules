@@ -1,3 +1,6 @@
 [submodule "chrome/content/app"]
 	path = chrome/content/app
 	url = git@github.com:Canaima/Canaima-Tour.git
+[submodule "xulrunner"]
+	path = xulrunner
+	url = git@github.com:Siragon/siragon-app-runtime.git
