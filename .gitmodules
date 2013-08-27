@@ -1,0 +1,3 @@
+[submodule "chrome/content/app"]
+	path = chrome/content/app
+	url = git@github.com:Canaima/Canaima-Tour.git
